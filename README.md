@@ -16,7 +16,7 @@ especially when running late for food, class, or other morning events.
 
 ## Demo Video(s)
 
-![OverviewSkit](https://youtube.com/watch?v=lf0nFmbdNgo)
+![OverviewSkit](https://www.youtube.com/watch?v=lf0nFmbdNgo)
 
 ![DemoForm](./auxmedia/demoForm.gif)
 
