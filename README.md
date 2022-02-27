@@ -16,11 +16,13 @@ especially when running late for food, class, or other morning events.
 
 ## Demo Video(s)
 
-![OverviewSkit](https://youtube.com)
+![OverviewSkit](https://youtu.be/lf0nFmbdNgo)
 
 ![DemoForm](./auxmedia/demoForm.gif)
 
 ![DemoSMS](./auxmedia/demoSMS.gif)
+
+And finally, a sample of our App's homepage...
 
 ![AppHome](./auxmedia/sampleSS.jpg)
 
@@ -34,11 +36,15 @@ Every UCLA student understands the struggle - the struggle of realizing you have
 
 Sussy Symptoms is an app that completes your symptom monitoring survey for you! Our team's prototype streamlines the survey completion process, reducing each morning's tedious COVID-19 survey from several long-winded, meandering questions to one straightforward prompt.
 
-_How are you feeling today?__ Good... or sus? 🤔
+_How are you feeling today?_ Good... or sus? 🤔
+
+&nbsp;&nbsp;
 
 ## Piece by Piece, Push by Push
 
 The User Interface was developed using Kotlin Gradle, while we used Selenium and Python for the backend. A particularly challenging component was communicating with DuoMobile, the third party multi-factor authentication app called by the survey. This was developed using Java to read in the text-message pushed by the DuoMobile App to the users’ mobile device, and entering the verification code into the DuoMobile interface. Alternatively, a DuoPush is triggered by the Sussy Symptoms app, which then waits for the user to accept the request before proceeding to the next web page.
+
+&nbsp;&nbsp;
 
 ## Together, Triumphant
 
